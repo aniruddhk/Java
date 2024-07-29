@@ -1,4 +1,4 @@
-package com.ak.java.thread;
+package thread;
 
 public class CustomExecutorDemo {
     public static void main(String[] args) throws InterruptedException {

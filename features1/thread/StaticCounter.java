@@ -1,4 +1,4 @@
-package com.ak.java.thread;
+package thread;
 
 public class StaticCounter {
     private int count=0;

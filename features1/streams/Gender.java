@@ -1,4 +1,4 @@
-package com.ak.java.streams;
+package streams;
 
 public enum Gender {
     MALE, FEMALE

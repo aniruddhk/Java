@@ -1,4 +1,4 @@
-package com.ak.java.thread;
+package thread;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

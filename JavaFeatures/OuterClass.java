@@ -1,3 +1,5 @@
+package JavaFeatures;
+
 public class OuterClass {
     private int x = 1100;
     public static int counter = 0;

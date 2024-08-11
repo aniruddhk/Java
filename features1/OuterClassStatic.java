@@ -4,6 +4,7 @@ public class OuterClassStatic {
 
     public static class InnerStaticClass{
         public InnerStaticClass(int m,int n){
+            OuterClassStatic outerClassStatic= new OuterClassStatic();
            System.out.println("inside InnerStaticClass..."+m+"---"+n);
            System.out.println("Accessing x..."+y);
 

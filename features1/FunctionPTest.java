@@ -3,6 +3,8 @@ public class FunctionPTest {
     private void testAddition(){
         Addition<Double> add = (t1,t2) -> t1+t2;
         System.out.println(add.add(10.5,20.0));
+        Addition<Integer> addd = (x,y)-> x+y;
+        add.add(10.0,20.0);
     }
 
     /**
